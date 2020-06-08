@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jackson-core-asl-1.9.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/JARFİLES/commons-io-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARFİLES/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARFİLES/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARFİLES/jackson-mrbean-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARFİLES/gson-2.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

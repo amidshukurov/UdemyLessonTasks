@@ -1,0 +1,7 @@
+package udemysecondmonth;
+
+import java.io.Serializable;
+
+public class User {
+    String name;
+}
